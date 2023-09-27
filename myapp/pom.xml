@@ -17,9 +17,13 @@
         </dependency>
         <dependency>
             <groupId>miku</groupId>
+            <artifactId>windowframe</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>miku</groupId>
             <artifactId>snakebody</artifactId>
         </dependency>
     </dependencies>
-    <artifactId>windowframe</artifactId>
+    <artifactId>myapp</artifactId>
 
 </project>
